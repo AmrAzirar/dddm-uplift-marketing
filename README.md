@@ -1,7 +1,7 @@
 # Uplift Marketing — Qui achète GRÂCE à l'email ?
 ## Projet DDDM — ENSIAS | Juin 2026
 
-**Auteur :** Azirar Amr  
+**Auteur :** Azirar Amr  / Anas Houhou
 **Module :** Data-Driven Decision Making  
 **Professeur :** Pr. Y. Tabii  
 **Dataset :** Hillstrom E-Mail Analytics (64 000 clients)
